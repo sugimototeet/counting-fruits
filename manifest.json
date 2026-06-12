@@ -1,0 +1,17 @@
+{
+  "name": "くだもの かぞえよう",
+  "short_name": "かぞえよう",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7d7",
+  "theme_color": "#fff7d7",
+  "description": "くだものを数えて答える、幼児向けの数あそびアプリです。",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
